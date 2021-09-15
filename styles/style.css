@@ -1,0 +1,23 @@
+.pic {
+  height: auto;
+  width: 400px;
+}
+
+h1 {
+  color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 36px;
+  text-align: center;
+}
+
+h2 {
+  color: yellow;
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  text-align: center;
+}
+
+body {
+  background-color: bisque;
+}
