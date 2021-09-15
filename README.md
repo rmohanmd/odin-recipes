@@ -6,4 +6,5 @@
 <li>Use the image tag</li>
 <li>Link to pages and images in different folders</li>
 <li>Use of Ordered & Unordered lists</li>
+<li>added style via internal and externmal css</li>
 </ul>
